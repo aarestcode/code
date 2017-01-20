@@ -1,0 +1,10 @@
+*~
+.*.swp
+/.classpath
+/.factorypath
+/.idea/
+/.project
+/.settings
+/WORKSPACE.user.bzl
+/bazel-*
+/output/
